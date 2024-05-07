@@ -28,3 +28,5 @@ plt.plot([0, S[0]], [0, S[1]], 'r', marker = 'o')
 
 plt.title( 'Circle' )
 plt.show()
+print("second commit")
+#change in code
